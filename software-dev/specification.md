@@ -1,7 +1,7 @@
 # Specification template
 _ // A highly simplified way for developers to tell what their system-to-be-built will do against the requirement_
 
-### 1. Description: 
+### 1. Description:
 _ // Say what will be done in plain language corresponding to which requirement. Now list the specifications as a list against which the developed system can be tested._
 
 // Example 1: We will build a system to sort numbers which are integers and decimals.
