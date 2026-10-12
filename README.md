@@ -5,7 +5,7 @@ Prof. Biplav Srivastava, AI Institute, University of South Carolina
 Fall 2026, [Course Website](https://sites.google.com/site/biplavsrivastava/teaching/comp-csce-190-fall-2026-csce-190-computing-in-the-modern-world)
 
 
-This github repo contains materials related to the course including presentations and learning resources.
+**This github repo contains materials related to the course including presentations and learning resources**. A suggested set of readings on topics in AI, the instructor's main research area in computing, can be found [here](https://github.com/biplav-s/ai-resources/). 
 
 ---
 
